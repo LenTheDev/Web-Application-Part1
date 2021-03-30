@@ -1,5 +1,4 @@
-# Project Description 
-This project to get a Pycharm environment setup with Docker, Flask, and Mysql 
+# Pycharm environment setup with Docker, Flask, and Mysql 
 # Postman Screenshot 
 ![postman_request_output](screenshots/postman.png)
 # SQL Data Screenshot
